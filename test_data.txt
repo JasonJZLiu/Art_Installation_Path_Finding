@@ -1,0 +1,6 @@
+ARTWORKNAM	Nbhd#	Ward#(25)	Ward Name (25)	ADDRESS	POSTAL_COD	POSTCODE2	X_COORDI	Y_COORDI	PARK_NAME	NEAR_ST	NEAR_CST	ARTIST	MEDIA	DATE	INDOORS_OU
+A	na	2	na	na	na	na	0	0	na	na	na	na	na	na	OUTDOORS
+B	na	3	na	na	na	na	0	1	na	na	na	na	na	na	INDOORS
+C	na	4	na	na	na	na	1	1	na	na	na	na	na	na	OUTDOORS
+D	na	4	na	na	na	na	0	5	na	na	na	na	na	na	OUTDOORS
+E	na	6	na	na	na	na	1	5	na	na	na	na	na	na	OUTDOORS
